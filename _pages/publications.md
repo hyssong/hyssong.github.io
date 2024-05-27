@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Manuscripts in preparation
-**Song, H.\***, Park, J.\*, Rosenberg, M. D. (under review). Understanding cognitive processes across spatiotemporal scales of the brain. *Invited paper in Trends in Cognitive Sciences*.
+**Song, H.\***, Park, J.\*, Rosenberg, M. D. (under review). Understanding cognitive processes across spatiotemporal scales of the brain. Invited paper in *Trends in Cognitive Sciences*.
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
@@ -14,7 +14,7 @@ Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic fu
 ## Peer-reviewed publications
 Chamberlain, T., Corriveau, A., **Song, H.**, Kwon, Y. H., Yoo, K., Chun, M. M., Rosenberg, M. D. (2024). High performers demonstrate greater neural synchrony than low performers across behavioral domains. *Imaging Neuroscience* 2, 1–17. [[link]](https://doi.org/10.1162/imag_a_00128) [[pdf]](/files/Chamberlainetal_2024_ImagNeurosci.pdf)
 
-**Song, H.**, Shim, W. M.\*, Rosenberg, M. D.\* (2023). Large-scale neural dynamics in a shared low- dimensional state space reflect cognitive and attentional dynamics. *eLife* 12, e85487. [[link]](https://doi.org/10.7554/eLife.85487) [[pdf]](/files/SongShimRosenberg_2023_eLife.pdf)
+**Song, H.**, Shim, W. M.\*, Rosenberg, M. D.\* (2023). Large-scale neural dynamics in a shared low-dimensional state space reflect cognitive and attentional dynamics. *eLife* 12, e85487. [[link]](https://doi.org/10.7554/eLife.85487) [[pdf]](/files/SongShimRosenberg_2023_eLife.pdf)
 
 **Song, H.**, Finn, E. S., Rosenberg, M. D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS* 118 (33), e2021905118. [[link]](https://doi.org/10.1073/pnas.2021905118) [[pdf]](/files/SongFinnRosenberg_2021_PNAS.pdf)
 
