@@ -18,7 +18,7 @@ Chamberlain, T., Corriveau, A., **Song, H.**, Kwon, Y. H., Yoo, K., Chun, M. M.,
 
 **Song, H.**, Finn, E. S., Rosenberg, M. D. (2021). Neural signatures of attentional engagement during narratives and its consequences for event memory. *PNAS* 118 (33), e2021905118.
 
-**Song, H.**, Park, B. -Y., Park, H., Shim, W. M. (2021). Cognitive and neural state dynamics of narrative comprehension. *Journal of Neuroscience* 41(43), 8972-8990.
+**Song, H.**, Park, B. -Y., Park, H., Shim, W. M. (2021). Cognitive and neural state dynamics of narrative comprehension. *Journal of Neuroscience* 41 (43), 8972-8990.
 
 **Song, H.**, Rosenberg, M. D. (2021). Predicting attention across time and contexts with functional brain connectivity. *Current Opinion in Behavioral Sciences* 40, 33-44.
 
