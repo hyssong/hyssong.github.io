@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Manuscripts in Preparation
+## Manuscripts in preparation
 **Song, H.\***, Park, J.\*, Rosenberg, M. D. (under review). Understanding cognitive processes across spatiotemporal scales of the brain. *Invited paper in Trends in Cognitive Sciences*.
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
