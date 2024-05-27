@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-How do we make sense of events as they unfold in our daily lives? How do we make sense of events stored in our memories? My work asks how we comprehend narrative events by investigating the underlying brain-wide dynamics and computations supporting the process. Using functional magnetic resonance imaging with naturalistic behavioral experiments and computational modeling, my work investigates various cognitive processes in narrative comprehension, including causal reasoning, episodic memory, and attentional engagement. The goal of my research is to understand our rich and dynamic cognitive experiences by uncovering their neural mechanisms.
+How do we make sense of events as they unfold in our daily lives? How do we make sense of other's behaviors and our own memories? My work asks how we comprehend narrative events by examining the underlying brain-wide dynamics and computations supporting this process. Using functional magnetic resonance imaging, naturalistic behavioral experiments, and computational modeling, my work investigates various cognitive processes in narrative comprehension, including causal reasoning, episodic memory, and attentional engagement. The aim of my research is to understand neural mechanisms that underpin our rich and dynamic cognitive experiences.
 
 I am an incoming postdoctoral research fellow at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD from the University of Chicago and a BA and MS from Sungkyunkwan University in Korea.
 
