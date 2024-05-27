@@ -12,4 +12,4 @@ How do we make sense of events as they unfold in our daily lives? How do we make
 
 I am an incoming postdoctoral research fellow at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD from the University of Chicago, working with [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received a BA and MS from Sungkyunkwan University in Korea, working with [Won Mok Shim](http://wshimlab.com/) and [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab).
 
-I am passionate about open science and across-field collaborations.
+I am passionate about open and slow science and across-field collaborations.
