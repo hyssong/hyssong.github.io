@@ -8,7 +8,7 @@ author_profile: true
 ## Manuscripts in Preparation
 **Song, H.\***, Park, J.\*, Rosenberg, M. D. (under review). Understanding cognitive processes across spatiotemporal scales of the brain. *Invited paper in Trends in Cognitive Sciences*.
 
-Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767.
+Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
 
 ## Peer-reviewed publications
@@ -22,7 +22,7 @@ Chamberlain, T., Corriveau, A., **Song, H.**, Kwon, Y. H., Yoo, K., Chun, M. M.,
 
 **Song, H.**, Rosenberg, M. D. (2021). Predicting attention across time and contexts with functional brain connectivity. *Current Opinion in Behavioral Sciences* 40, 33-44. [[link]](https://doi.org/10.1016/j.cobeha.2020.12.007) [[pdf]](/files/SongRosenberg_2021_COBEHA.pdf)
 
-Yoo, S.\*, **Song, H.\***, Kim, S. -G., Shim, W. M., Lee, S. -K. (2020). Feasibility of head-tilted brain scan to reduce susceptibility-induced signal loss in the prefrontal cortex in gradient echo-based imaging. *Neuroimage* 223, 117265.
+Yoo, S.\*, **Song, H.\***, Kim, S. -G., Shim, W. M., Lee, S. -K. (2020). Feasibility of head-tilted brain scan to reduce susceptibility-induced signal loss in the prefrontal cortex in gradient echo-based imaging. *Neuroimage* 223, 117265. [[link]](https://doi.org/10.1016/j.neuroimage.2020.117265) [[pdf]](/files/YooSongetal_2020_Neuroimage.pdf)
 
-Rosenberg, M. D., **Song, H.** (2020). Predicting post-stroke aphasia from brain imaging. News & Views, *Nature Human Behavior* 4, 675-676.
+Rosenberg, M. D., **Song, H.** (2020). Predicting post-stroke aphasia from brain imaging. News & Views, *Nature Human Behavior* 4, 675-676. [[link]](https://doi.org/10.1038/s41562-020-0902-1) [[pdf]](/files/RosenbergSong_2020_NHB.pdf)
 
