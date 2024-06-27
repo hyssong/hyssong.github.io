@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Manuscripts in preparation
-**Song, H.\***, Park, J.\*, Rosenberg, M. D. (under review). Understanding cognitive processes across spatiotemporal scales of the brain. Invited paper in *Trends in Cognitive Sciences*.
+**Song, H.\***, Park, J.\*, Rosenberg, M. D. (in revision). Understanding cognitive processes across spatiotemporal scales of the brain. Invited paper in *Trends in Cognitive Sciences*.
+
+Park, J., **Song H.**, Shim, W. M. (submitted). Solving the narrative puzzle: Memory encoding and sequencing in the hippocampus during ongoing narrative comprehension.
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
