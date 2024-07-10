@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-How do we make sense of events as they unfold in our daily lives? How do we process a stream of information to form a coherent understanding of the world around us? My work asks how we comprehend narrative events by examining brain-wide dynamics and computations supporting this process. Using functional magnetic resonance imaging, naturalistic behavioral experiments, and computational modeling, my work investigates various cognitive processes integral to narrative comprehension, including causal reasoning, episodic memory, emotion, and attentional engagement. My goal is to better understand our rich and flexible mental experiences through studying the brain's operations.
-
 I am an incoming postdoctoral research fellow at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD in Psychology (Integrative Neuroscience) from the University of Chicago, working with [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received a BA in Psychology and MS in Biomedical Engineering from Sungkyunkwan University in Korea, working with [Won Mok Shim](http://wshimlab.com/) and [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab).
 
 I am passionate about open and slow science practices and across-field collaborations.
