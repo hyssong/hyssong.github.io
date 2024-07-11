@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hayoung Song"
+title: "Research program"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
