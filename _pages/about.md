@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hayoung Song"
-excerpt: "About me"
+excerpt: "Research program"
 author_profile: true
 redirect_from: 
   - /about/
