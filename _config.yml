@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hayoung Song" #"Your Name / Site Title"
+title                    : "Hayoung Song, Ph.D." #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Hayoung Song, Ph.D."
+name                     : &name "Hayoung Song"
 description              : &description "Cognitive Neuroscientist"
 url                      : https://hyssong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
