@@ -15,6 +15,8 @@ I am passionate about open and slow science practices and across-field collabora
 <br/>
 <br/>
 <br/>
+# Research Program
+<br/>
 **Narrative comprehension**<br/>
 How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatial scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118).
 
