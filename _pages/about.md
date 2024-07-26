@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research program"
+title: "Hayoung Song"
 excerpt: "Hayoung Song"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-**Narrative comprehension and multiscale brain dynamics**<br/>
-How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatiotemporal scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118). I think a lot about the brain at multiple [spatiotemporal scales](https://doi.org/10.7554/eLife.85487), ranging from local to global spatial scales and fast to slow time scales.
+**Narrative comprehension**<br/>
+How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatiotemporal scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118).
 
-**Computational model of the brain on causal reasoning**<br/>
+**Computational model of causal reasoning**<br/>
 Comprehension involves piecing together causally related events in memory to form a coherent situational representation. How does the brain accomplish this? Can we develop a computational model of the brain that achieves such complex causal reasoning? While seminal work in computational neuroscience has focused on well-parameterized, simpler cognitive tasks, my goal is to extend these models to naturalistic paradigms. I hope to gain a mechanistic understanding of complex cognitive processes, such as causal reasoning during narrative comprehension.
+
+**Neural operations at multiple spatial scales**<br/>
+I think a lot about the brain at multiple [spatial scales](https://doi.org/10.7554/eLife.85487), ranging from local to global spatial scales and fast to slow time scales. Stay tuned for an opinion piece that I worked on with [JeongJun Park](https://scholar.google.com/citations?user=-ATBHAIAAAAJ&hl=en&oi=ao) and [Monica Rosenberg](https://cablab.uchicago.edu/)!
 
 **Science and art**<br/>
 I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a child in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our subjective experiences. [Here](https://yukyeomkim.com/Eye-Contact) is my recent collaboration with a robotic artist, where we conducted a behavioral study as visitors interact with eye-following and eye-avoiding robots in the gallery.<br/>
