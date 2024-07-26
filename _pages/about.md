@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Narrative comprehension**<br/>
-How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatiotemporal scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118).
+How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatial scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118).
 
 **Computational model of causal reasoning**<br/>
 Comprehension involves piecing together causally related events in memory to form a coherent situational representation. How does the brain accomplish this? Can we develop a computational model of the brain that achieves such complex causal reasoning? While seminal work in computational neuroscience has focused on well-parameterized, simpler cognitive tasks, my goal is to extend these models to naturalistic paradigms.
