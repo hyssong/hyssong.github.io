@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am an incoming [postdoctoral research fellow](https://neuroscience.wustl.edu/hayoung-song-to-join-washu-as-ctcn-fellow/) at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD in Psychology (Integrative Neuroscience) from the University of Chicago, working with [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received a BA in Psychology and MS in Biomedical Engineering from Sungkyunkwan University in Korea, working with [Won Mok Shim](http://wshimlab.com/) and [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab).
+<br/>
+I am passionate about open and slow science practices and across-field collaborations.
+<br/>
+<br/>
 **Narrative comprehension**<br/>
 How do we make sense of events as they unfold in our daily lives? My work asks how we comprehend narrative events by examining brain dynamics at multiple spatial scales. Using functional magnetic resonance imaging and naturalistic behavioral experiments, I investigate various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory, [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2), and [attentional engagement](https://doi.org/10.1073/pnas.2021905118).
 
@@ -21,7 +26,4 @@ Cognition arises from neural operations at multiple [spatial scales](https://doi
 I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a kid in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our subjective experiences. [Here](https://yukyeomkim.com/Eye-Contact) is my recent collaboration with a robotic artist, where we conducted a behavioral study as visitors interact with eye-following and eye-avoiding robots in the gallery.<br/>
 <br/>
 <br/>
-I am an incoming [postdoctoral research fellow](https://neuroscience.wustl.edu/hayoung-song-to-join-washu-as-ctcn-fellow/) at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD in Psychology (Integrative Neuroscience) from the University of Chicago, working with [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received a BA in Psychology and MS in Biomedical Engineering from Sungkyunkwan University in Korea, working with [Won Mok Shim](http://wshimlab.com/) and [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab).
-<br/>
-<br/>
-I am passionate about open and slow science practices and across-field collaborations.
+
