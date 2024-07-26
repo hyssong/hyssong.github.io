@@ -22,7 +22,7 @@ How do we make sense of events as they unfold in our daily lives? My work asks h
 **Computational model of causal reasoning**<br/>
 Comprehension involves piecing together causally related events in memory to form a coherent situational representation. How does the brain accomplish this? Can we develop a computational model of the brain that achieves such complex causal reasoning? While seminal work in computational neuroscience has focused on well-parameterized, simpler cognitive tasks, my goal is to extend these models to naturalistic paradigms.
 
-**Neural operations at multiple spatial scales**<br/>
+**Brain operations at multiple spatial scales**<br/>
 Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.7554/eLife.85487), from individual neurons to large-scale networks. How do neural operations at different scales collectively give rise to complex behavior, and how can we study this as a field? Stay tuned for an opinion piece that I worked on recently with [JeongJun Park](https://scholar.google.com/citations?user=-ATBHAIAAAAJ&hl=en&oi=ao) and [Monica Rosenberg](https://cablab.uchicago.edu/), covering a wide range of work in behaving rodents, non-human primates, and humans!
 
 **Science and art**<br/>
