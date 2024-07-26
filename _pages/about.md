@@ -14,7 +14,6 @@ I am an incoming [postdoctoral research fellow](https://neuroscience.wustl.edu/h
 I am passionate about open and slow science practices and across-field collaborations.
 <br/>
 <br/>
-<br/>
 ## Research Program
 
 **Narrative comprehension**<br/>
