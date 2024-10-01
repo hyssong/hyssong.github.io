@@ -24,7 +24,7 @@ Rosenberg, M. D., **Song, H.** (2020). Predicting post-stroke aphasia from brain
 
 
 ## Manuscripts in preparation
-Park, J., **Song H.**, Shim, W. M. (under review). Solving the narrative puzzle: Memory encoding and sequencing in the hippocampus during ongoing narrative comprehension.
+Park, J., **Song H.**, Shim, W. M. (submitted). Solving the narrative puzzle: Memory encoding and sequencing in the hippocampus during ongoing narrative comprehension.
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
