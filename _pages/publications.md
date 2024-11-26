@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed publications
-**Song, H.\***, Park, J.\*, Rosenberg, M. D. (in press). Understanding cognitive processes across spatiotemporal scales of the brain. Invited paper in *Trends in Cognitive Sciences*.
+**Song, H.\***, Park, J.\*, Rosenberg, M. D. (2024). Understanding cognitive processes across spatiotemporal scales of the brain. *Trends in Cognitive Sciences*. [[link]](https://doi.org/10.1016/j.tics.2024.09.009) [[pdf]](/files/SongParketal_2024_TiCS.pdf)
 
 Chamberlain, T., Corriveau, A., **Song, H.**, Kwon, Y. H., Yoo, K., Chun, M. M., Rosenberg, M. D. (2024). High performers demonstrate greater neural synchrony than low performers across behavioral domains. *Imaging Neuroscience* 2, 1–17. [[link]](https://doi.org/10.1162/imag_a_00128) [[pdf]](/files/Chamberlainetal_2024_ImagNeurosci.pdf)
 
