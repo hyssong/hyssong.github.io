@@ -16,11 +16,11 @@ I am passionate about open and slow science practices and across-field collabora
 <br/>
 ## Research Program
 
-**Event comprehension**<br/>
-Comprehension involves integrating ongoing events with causally related events in memory to form and update a coherent situational representation. How does the brain accomplish this? Using functional magnetic resonance imaging, naturalistic behavioral experiments, and computational modeling, my work investigates various cognitive processes integral to narrative comprehension, including [causal reasoning](https://doi.org/10.1523/JNEUROSCI.0037-21.2021), episodic memory (stay tuned!), [attentional engagement](https://doi.org/10.1073/pnas.2021905118), and [emotion](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2).
+**Causal inference during naturalistic event comprehension**<br/>
+We understand everyday events by reasoning about their underlying [causes](https://doi.org/10.1523/JNEUROSCI.0037-21.2021). We integrate ongoing events with causally related events in memory to form and update coherent situational representations. How does the brain accomplish this? I use functional magnetic resonance imaging, naturalistic behavioral experiments, and computational modeling to answer this question. 
 
 **Multiscale neural operation**<br/>
-Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.1016/j.tics.2024.09.009), from individual neurons to [large-scale networks](https://doi.org/10.7554/eLife.85487). I think a lot on how neural operations at different scales collectively give rise to complex behavior, and how we can study this as a field.
+Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.1016/j.tics.2024.09.009), from individual neurons to [large-scale networks](https://doi.org/10.7554/eLife.85487). I think a lot about how neural operations at different scales collectively give rise to complex behavior, and how we can study this as a field. I use dynamical systems to characterize and model neural dynamics.
 
 **Science and art**<br/>
 I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a kid in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our [subjective experiences](https://www.artsscienceculture.uchicago.edu/202223-grantees-1-1).<br/>
