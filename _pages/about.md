@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral research associate at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis, working with [ShiNung Ching](https://engineering.washu.edu/faculty/ShiNung-Ching.html) and [Jeff Zacks](https://dcl.wustl.edu/). I received a PhD in Psychology (Integrative Neuroscience) from the University of Chicago, advised by [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received an MS in Biomedical Engineering and a BA in Psychology from Sungkyunkwan University in Korea, working with [Won Mok Shim](http://wshimlab.com/) and [Min-Suk Kang](https://sites.google.com/view/vcnlskku/vcnl-lab?authuser=0).
 <br/>
 <br/>
-I study the operations of the human mind and the brain using behavioral experiments and functional neuroimaging. Nowadays, I am building computational models of the mind and brain to gain a mechanistic understanding. I am passionate about open and slow science practices and across-field collaborations.
+I study how the human brain gives rise to the mind using functional neuroimaging and behavioral experiments. Nowadays, I am building computational models of the mind and brain to gain a mechanistic understanding. I am passionate about open and slow science practices and across-field collaborations.
 <br/>
 <br/>
 ## Research Program
