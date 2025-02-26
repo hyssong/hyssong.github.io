@@ -23,7 +23,7 @@ Yoo, S.\*, **Song, H.\***, Kim, S. -G., Shim, W. M., Lee, S. -K. (2020). Feasibi
 Rosenberg, M. D., **Song, H.** (2020). Predicting post-stroke aphasia from brain imaging. News & Views, *Nature Human Behavior* 4, 675-676. [[link]](https://doi.org/10.1038/s41562-020-0902-1) [[pdf]](/files/RosenbergSong_2020_NHB.pdf)
 
 
-## Manuscripts in preparation
+## Preprints & Under Review
 Park, J., **Song H.**, Shim, W. M. (submitted). Solving the narrative puzzle: Memory encoding and sequencing in the hippocampus during ongoing narrative comprehension.
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
