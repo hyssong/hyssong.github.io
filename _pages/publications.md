@@ -7,11 +7,9 @@ author_profile: true
 
 ## Preprints
 
-(*equal contribution, <u>mentee collaborators</u>)
+**Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
 
-**Song, H.**, <u>Ke, J.</u>, <u>Madhogarhia, R.</u>, Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
-
-<u>Ke, J.</u>, **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
+Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
 Park, J., **Song H.**, Shim, W. M. (*under review*). Solving the narrative puzzle: Hippocampal Systems for Event Encoding and Sequencing during Ongoing Comprehension. [[link]](https://www.researchsquare.com/article/rs-4569104/v1)
 
