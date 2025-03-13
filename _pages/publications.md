@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+(*equal contribution, <u>mentee collaborators<u>)
+
+**Song, H.**, <u>Ke, J.<u>, <u>Madhogarhia, R.<u>, Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
+
+<u>Ke, J.<u>, **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
+
+Park, J., **Song H.**, Shim, W. M. (*under review*). Solving the narrative puzzle: Hippocampal Systems for Event Encoding and Sequencing during Ongoing Comprehension. [[link]](https://www.researchsquare.com/article/rs-4569104/v1)
+
+
 ## Peer-reviewed publications
 **Song, H.\***, Park, J.\*, Rosenberg, M. D. (2024). Understanding cognitive processes across spatiotemporal scales of the brain. *Trends in Cognitive Sciences*. [[link]](https://doi.org/10.1016/j.tics.2024.09.009) [[pdf]](/files/SongParketal_2024_TiCS.pdf)
 
@@ -23,8 +34,5 @@ Yoo, S.\*, **Song, H.\***, Kim, S. -G., Shim, W. M., Lee, S. -K. (2020). Feasibi
 Rosenberg, M. D., **Song, H.** (2020). Predicting post-stroke aphasia from brain imaging. News & Views, *Nature Human Behavior* 4, 675-676. [[link]](https://doi.org/10.1038/s41562-020-0902-1) [[pdf]](/files/RosenbergSong_2020_NHB.pdf)
 
 
-## Preprints & Under Review
-Park, J., **Song H.**, Shim, W. M. (submitted). Solving the narrative puzzle: Memory encoding and sequencing in the hippocampus during ongoing narrative comprehension.
 
-Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2023). Dynamic functional connectivity encodes generalizable representations of emotional arousal but not valence. *bioRxiv*, 10.1101/2023.11.14.566767. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
 
