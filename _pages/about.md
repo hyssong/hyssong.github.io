@@ -16,11 +16,11 @@ I study how the human brain gives rise to the mind using functional neuroimaging
 <br/>
 ## Research Program
 
-**Causal inference during naturalistic event comprehension**<br/>
-We understand everyday events by reasoning about their underlying [causes](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1). We integrate ongoing events with causally related events in memory to form and update coherent situational representations. How does the brain accomplish this? I use functional magnetic resonance imaging, naturalistic behavioral experiments, and computational modeling to answer this question. 
+**Large-scale neural dynamics and how they give rise to cognitive dynamics**<br/>
+Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.1016/j.tics.2024.09.009), from individual neurons to [large-scale networks](https://doi.org/10.7554/eLife.85487). I study the brain at a macroscale using functional magnetic resonance imaging (fMRI), to understand how dynamic interactions of the whole brain regions and networks collectively give rise to various cognitive state dynamics and behavior. I use dynamical systems to characterize and model neural dynamics.
 
-**Neural dynamics at multiple scales and their relations to cognitive dynamics**<br/>
-Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.1016/j.tics.2024.09.009), from individual neurons to [large-scale networks](https://doi.org/10.7554/eLife.85487). I think a lot about how neural operations at different scales collectively give rise to complex behavior, and how we can study this as a field. I use dynamical systems to characterize and model neural dynamics.
+**Higher-order cognition: neurobiological and computational mechanisms**<br/>
+I hope to understand the mechanisms of higher-order cognitive functions in humans. For this, in the past years, I have been studying memory-guided causal inference during naturalistic event comprehension. We understand everyday events by reasoning about their underlying [causes](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1). We integrate ongoing events with causally related events in memory to form and update coherent situational representations. How does the brain accomplish this? I use naturalistic behavioral experiments, fMRI, and simulation of neural network models to answer this question. 
 
 **Science in the wild**<br/>
 I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a kid in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our [subjective experiences](https://www.artsscienceculture.uchicago.edu/202223-grantees-1-1).<br/>
