@@ -9,12 +9,12 @@ author_profile: true
 
 **Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
 
-Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2024). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.14.566767v2)
-
 Park, J., **Song H.**, Shim, W. M. (*under review*). Solving the narrative puzzle: Hippocampal Systems for Event Encoding and Sequencing during Ongoing Comprehension. [[link]](https://www.researchsquare.com/article/rs-4569104/v1)
 
 
 ## Peer-reviewed publications
+Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2025). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *PLOS Computational Biology*. [[link]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012994)
+
 **Song, H.\***, Park, J.\*, Rosenberg, M. D. (2024). Understanding cognitive processes across spatiotemporal scales of the brain. *Trends in Cognitive Sciences*. [[link]](https://doi.org/10.1016/j.tics.2024.09.009) [[pdf]](/files/SongParketal_2024_TiCS.pdf)
 
 Chamberlain, T., Corriveau, A., **Song, H.**, Kwon, Y. H., Yoo, K., Chun, M. M., Rosenberg, M. D. (2024). High performers demonstrate greater neural synchrony than low performers across behavioral domains. *Imaging Neuroscience* 2, 1–17. [[link]](https://doi.org/10.1162/imag_a_00128) [[pdf]](/files/Chamberlainetal_2024_ImagNeurosci.pdf)
