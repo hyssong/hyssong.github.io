@@ -11,7 +11,7 @@ redirect_from:
 I am a postdoctoral research associate at the [Center for Theoretical and Computational Neuroscience](https://ctcn.wustl.edu/) at Washington University in St. Louis. I received a PhD in Psychology (Integrative Neuroscience) from the University of Chicago, advised by [Monica Rosenberg](https://cablab.uchicago.edu/) and [Yuan Chang Leong](https://mcnlab.uchicago.edu/). I received an MS in Biomedical Engineering and a BA in Psychology from Sungkyunkwan University in Korea.
 <br/>
 <br/>
-I study how the human brain gives rise to the mind using functional neuroimaging and behavioral experiments. Nowadays, I am building computational models of the mind and brain to gain a mechanistic understanding. I am passionate about open and slow science practices and across-field collaborations.
+I study how the human brain gives rise to the mind using functional neuroimaging and behavioral experiments. Nowadays, I am building computational models of the mind and brain to gain a mechanistic understanding. I am passionate about slow and open science practices and across-field collaborations.
 <br/>
 <br/>
 ## Research Program
