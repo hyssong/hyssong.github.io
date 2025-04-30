@@ -19,7 +19,7 @@ I study how the human brain gives rise to the mind using functional neuroimaging
 **Large-scale neural dynamics and how they give rise to cognitive dynamics**<br/>
 Cognition arises from neural operations at multiple [spatial scales](https://doi.org/10.1016/j.tics.2024.09.009), from individual neurons to [large-scale networks](https://doi.org/10.7554/eLife.85487). I study the brain at a macroscale using functional magnetic resonance imaging (fMRI), to understand how dynamic interactions of the whole brain regions and networks collectively give rise to various cognitive processes and behavior. I use dynamical systems to characterize and model neural dynamics.
 
-**Higher-order cognition: neurobiological and computational mechanisms**<br/>
+**Neural and computational underpinnings of higher-order cognition**<br/>
 I hope to understand the mechanisms of higher-order cognitive functions in humans. For this, in the past years, I have been studying memory-guided causal inference during naturalistic event comprehension. We understand everyday events by reasoning about their underlying [causes](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1). How does our brain integrate ongoing events with causally related past events to form and update coherent situational representations? I use naturalistic behavioral experiments, fMRI, and simulations of neural network models to answer this question. 
 
 **Science in the wild**<br/>
