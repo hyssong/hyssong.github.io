@@ -23,7 +23,7 @@ Cognition arises from neural operations at multiple [spatial scales](https://doi
 I hope to understand the mechanisms of higher-order cognitive functions in humans. For this, in the past years, I have been studying memory-guided causal inference during naturalistic event comprehension. We understand everyday events by reasoning about their underlying [causes](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1). How does our brain integrate ongoing events with causally related past events to form and update coherent situational representations? I use naturalistic behavioral experiments, fMRI, and simulations of neural network models to answer this question. 
 
 **Science in the wild**<br/>
-I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a kid in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our [subjective experiences](https://www.artsscienceculture.uchicago.edu/202223-grantees-1-1).<br/>
+I entered the field to understand the neural basis of subjective experience. I wanted to explain the tingling sensation I felt as a kid in front of a beautiful painting (so-called aesthetic experience). I collaborate with artists and organizations to conduct science in the wild to investigate our [subjective experiences](https://www.artsscienceculture.uchicago.edu/202223-grantees-1-1) and real-world behavior.<br/>
 <br/>
 <br/>
 
