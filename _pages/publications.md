@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Peer-reviewed publications
-Park, J., **Song H.**, Shim, W. M. (2025). Hippocampal systems for event encoding and sequencing during ongoing narrative comprehension. *Communications Biology* 8, 954. [[link]](https://www.nature.com/articles/s42003-025-08377-1)
+Park, J., **Song H.**, Shim, W. M. (2025). Hippocampal systems for event encoding and sequencing during ongoing narrative comprehension. *Communications Biology* 8, 954. [[link]](https://www.nature.com/articles/s42003-025-08377-1) [[pdf]](/files/ParkSongShim_2025_CommBio.pdf)
 
 Ke, J., **Song, H.**, Bai, Z., Rosenberg, M. D., Leong, Y. C. (2025). Dynamic functional connectivity encodes generalizable representations of emotional arousal across individuals and situational contexts. *PLOS Computational Biology* 21 (4), e1012994. [[link]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012994) [[pdf]](/files/KeSongBaiRosenbergLeong_2025_PlosBio.pdf)
 
