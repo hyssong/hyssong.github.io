@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+**Song, H.**, Chen, R., Botch, T. L., Braver, T. S., Rosenberg, M. D., Zacks, J. M., Ching, S. (2025) Geometry of neural dynamics along the cortical attractor landscape reflects changes in attention. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.08.08.669432v1)
+
 **Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
 
 
