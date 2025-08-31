@@ -11,6 +11,8 @@ author_profile: true
 
 **Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1)
 
+Ke, J., Chamberlain, T. A., **Song, H.**, Corriveau, A., Zhang, Z., Martinez, T., Sams, L., Chun, M. M., Leong, Y. C., Rosenberg, M. D. (2025). Ongoing thoughts at rest reflect functional brain organization and behavior. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.08.18.670664v1)
+
 
 ## Peer-reviewed publications
 Park, J., **Song H.**, Shim, W. M. (2025). Hippocampal systems for event encoding and sequencing during ongoing narrative comprehension. *Communications Biology* 8, 954. [[link]](https://www.nature.com/articles/s42003-025-08377-1) [[pdf]](/files/ParkSongShim_2025_CommBio.pdf)
