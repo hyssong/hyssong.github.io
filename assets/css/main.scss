@@ -39,29 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* ---- Bluesky icon fix for author sidebar ---- */
-.author__urls.social-icons li a {
-  align-items: center;
-}
-
-.author__urls.social-icons .bsky-icon {
-  display: inline-flex !important;
-  width: 1.25em !important;   /* match fa-fw */
-  height: 1em !important;
-  justify-content: center;
-  align-items: center;
-}
-
-.author__urls.social-icons .bsky-icon img.svg-icon {
-  width: 1em !important;
-  height: 1em !important;
-  max-width: 1em !important;
-  max-height: 1em !important;
-
-  /* FORCE monochrome */
-  filter: grayscale(100%) saturate(0%) brightness(0) !important;
-
-  /* prevent SVG intrinsic sizing */
-  display: block !important;
-}
