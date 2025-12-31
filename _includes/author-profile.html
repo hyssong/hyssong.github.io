@@ -69,11 +69,12 @@
       {% endif %}
 
       {% if author.bluesky %}
-        <li><a href="{{ author.bluesky }}" rel="me noopener noreferrer">
+        <li>
+          <a href="{{ author.bluesky }}" rel="me noopener noreferrer">
             <span class="fa-fw bsky-icon">
               <img src="{{ '/images/bluesky.svg' | relative_url }}"
-              alt="Bluesky"
-              class="svg-icon" />
+                   alt="Bluesky"
+                   class="svg-icon" />
             </span>
             Bluesky
           </a>
