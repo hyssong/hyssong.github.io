@@ -83,7 +83,7 @@ author:
   name             : "Hayoung Song"
   avatar           : "HayoungSong_photo.jpeg"
   bio              : "Cognitive Neuroscientist"
-  location         : "Chicago, IL"
+  location         : "St. Louis, MO"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=spIErR8AAAAJ&hl=en&oi=ao"
@@ -106,15 +106,19 @@ author:
   orcid            : "https://orcid.org/0000-0002-5970-8076"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@HayoungSong5"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/hayoungsong.bsky.social"
 
 
 # Reading Files
