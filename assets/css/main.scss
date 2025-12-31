@@ -45,3 +45,18 @@
 .author__urls img[src*="bluesky.svg"] {
   filter: grayscale(100%) saturate(0%) brightness(0) !important;
 }
+
+/* Align custom Bluesky <img> icon with Font Awesome fa-fw icons */
+.author__urls .bsky-icon {
+  display: inline-block;
+  width: 1.25em;          /* same as fa-fw */
+  text-align: center;
+  line-height: 1;
+}
+
+.author__urls .bsky-icon img.svg-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;  /* matches FA baseline */
+}
