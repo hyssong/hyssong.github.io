@@ -70,7 +70,12 @@
       {% if author.bluesky %}
         <li>
           <a href="{{ author.bluesky }}" rel="me noopener noreferrer">
-            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Bluesky
+            <span class="fa-fw">
+              <img src="{{ '/images/bluesky.svg' | relative_url }}"
+                   alt="Bluesky"
+                   style="width:1em;height:1em;vertical-align:-0.125em;display:inline-block;">
+            </span>
+            Bluesky
           </a>
         </li>
       {% endif %}
