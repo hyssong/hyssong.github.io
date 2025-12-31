@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hayoung Song"
+title: ""
 excerpt: "Hayoung Song"
 author_profile: true
 redirect_from: 
