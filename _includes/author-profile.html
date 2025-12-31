@@ -67,6 +67,20 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+
+      {% if author.bluesky %}
+        <li>
+          <a href="{{ author.bluesky }}" rel="me noopener noreferrer">
+            <span class="fa-fw" style="display:inline-block; width:1.25em; text-align:center;">
+              <img src="{{ '/images/bluesky.svg' | prepend: base_path }}"
+                   alt="Bluesky"
+                   style="width:1em;height:1em;vertical-align:-0.125em;">
+            </span>
+            Bluesky
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
