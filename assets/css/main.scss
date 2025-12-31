@@ -40,7 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Monochrome Bluesky SVG (no SVG edits) */
-.author__urls img[alt="Bluesky"] {
-  filter: grayscale(100%) saturate(0%) brightness(0);
+/* Monochrome Bluesky SVG (force) */
+.author__urls img[src$="bluesky.svg"],
+.author__urls img[src*="bluesky.svg"] {
+  filter: grayscale(100%) saturate(0%) brightness(0) !important;
 }
