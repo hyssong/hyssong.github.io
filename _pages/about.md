@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, thanks for visiting!:wave:
+Hi, thanks for visiting!👋
 <br/>
 <br/>
 I am a cognitive neuroscientist studying how the brain works. I conduct naturalistic behavioral experiments during functional magnetic resonance imaging to examine brain-wide activity and interaction dynamics. I develop computational models to simulate cognitive processes and the underlying brain circuits. The goal is to understand how the human brain gives rise to cognitive experiences and everyday behavior. I am passionate about slow and open science practices and across-field collaborations.
