@@ -40,25 +40,28 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Make inline <img> icons behave like the Font Awesome monochrome icons */
-.author__urls .bsky-icon {
-  display: inline-block;
-  width: 1.25em;          /* mimic fa-fw */
-  text-align: center;
+/* ---- Bluesky icon fix for author sidebar ---- */
+.author__urls.social-icons li a {
+  align-items: center;
 }
 
-.author__urls .bsky-icon .svg-icon {
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.125em;
-
-  /* turn any colored SVG into monochrome */
-  filter: grayscale(100%) saturate(0%) brightness(0);
+.author__urls.social-icons .bsky-icon {
+  display: inline-flex !important;
+  width: 1.25em !important;   /* match fa-fw */
+  height: 1em !important;
+  justify-content: center;
+  align-items: center;
 }
 
-/* If your site has a dark skin, invert the icon so it becomes white */
-html[data-theme="dark"] .author__urls .bsky-icon .svg-icon,
-body.dark .author__urls .bsky-icon .svg-icon,
-body.dark-theme .author__urls .bsky-icon .svg-icon {
-  filter: grayscale(100%) saturate(0%) brightness(0) invert(1);
+.author__urls.social-icons .bsky-icon img.svg-icon {
+  width: 1em !important;
+  height: 1em !important;
+  max-width: 1em !important;
+  max-height: 1em !important;
+
+  /* FORCE monochrome */
+  filter: grayscale(100%) saturate(0%) brightness(0) !important;
+
+  /* prevent SVG intrinsic sizing */
+  display: block !important;
 }
