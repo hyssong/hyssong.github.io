@@ -69,12 +69,11 @@
       {% endif %}
 
       {% if author.bluesky %}
-        <li>
-          <a href="{{ author.bluesky }}" rel="me noopener noreferrer">
-            <span class="fa-fw" style="display:inline-block; width:1.25em; text-align:center;">
-              <img src="{{ '/images/bluesky.svg' | prepend: base_path }}"
-                   alt="Bluesky"
-                   style="width:1em;height:1em;vertical-align:-0.125em;">
+        <li><a href="{{ author.bluesky }}" rel="me noopener noreferrer">
+            <span class="fa-fw bsky-icon">
+              <img src="{{ '/images/bluesky.svg' | relative_url }}"
+              alt="Bluesky"
+              class="svg-icon" />
             </span>
             Bluesky
           </a>
@@ -131,7 +130,7 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
     </ul>
   </div>
 </div>
