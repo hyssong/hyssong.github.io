@@ -39,3 +39,26 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Make inline <img> icons behave like the Font Awesome monochrome icons */
+.author__urls .bsky-icon {
+  display: inline-block;
+  width: 1.25em;          /* mimic fa-fw */
+  text-align: center;
+}
+
+.author__urls .bsky-icon .svg-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+
+  /* turn any colored SVG into monochrome */
+  filter: grayscale(100%) saturate(0%) brightness(0);
+}
+
+/* If your site has a dark skin, invert the icon so it becomes white */
+html[data-theme="dark"] .author__urls .bsky-icon .svg-icon,
+body.dark .author__urls .bsky-icon .svg-icon,
+body.dark-theme .author__urls .bsky-icon .svg-icon {
+  filter: grayscale(100%) saturate(0%) brightness(0) invert(1);
+}
