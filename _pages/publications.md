@@ -14,7 +14,7 @@ Ke, J., Chamberlain, T. A., **Song, H.**, Corriveau, A., Zhang, Z., Martinez, T.
 
 
 ## Peer-reviewed publications
-**Song, H.**, Chen, R., Botch, T. L., Braver, T. S., Rosenberg, M. D., Zacks, J. M., Ching, S. (2026) Geometry of neural dynamics along the cortical attractor landscape reflects changes in attention. *Nature Communications* 17, 2673. [[link]](https://www.nature.com/articles/s41467-026-69041-8) [[pdf]](/files/Songetal_2026_natcommun.pdf) [[code]](https://github.com/hyssong/dynamicalsystems)
+**Song, H.**, Chen, R., Botch, T. L., Braver, T. S., Rosenberg, M. D., Zacks, J. M., Ching, S. (2026). Geometry of neural dynamics along the cortical attractor landscape reflects changes in attention. *Nature Communications* 17, 2673. [[link]](https://www.nature.com/articles/s41467-026-69041-8) [[pdf]](/files/Songetal_2026_natcommun.pdf) [[code]](https://github.com/hyssong/dynamicalsystems)
 
 Park, J., **Song H.**, Shim, W. M. (2025). Hippocampal systems for event encoding and sequencing during ongoing narrative comprehension. *Communications Biology* 8, 954. [[link]](https://www.nature.com/articles/s42003-025-08377-1) [[pdf]](/files/ParkSongShim_2025_CommBio.pdf)
 
