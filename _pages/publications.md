@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Preprints
-**Song, H.**, Lu, Q., Nguyen, T. T., Chen, J., Leong, Y. C., Rosenberg, M. D., Ching, S., Zacks, J. M. (2025). A neural network with episodic memory learns causal relationships between narrative events. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.09.01.673596v1) [[code]](https://github.com/hyssong/memorymodel)
+**Song, H.**, Lu, Q., Nguyen, T. T., Chen, J., Leong, Y. C., Rosenberg, M. D., Ching, S., Zacks, J. M. A neural network with episodic memory learns causal relationships between narrative events. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.09.01.673596v1) [[code]](https://github.com/hyssong/memorymodel)
 
-**Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. (2025). Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1) [[data]](https://openneuro.org/datasets/ds005658/versions/1.0.0) [[code]](https://github.com/hyssong/memoryaha)
+**Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1) [[data]](https://openneuro.org/datasets/ds005658/versions/1.0.0) [[code]](https://github.com/hyssong/memoryaha)
 
-Ke, J., Chamberlain, T. A., **Song, H.**, Corriveau, A., Zhang, Z., Martinez, T., Sams, L., Chun, M. M., Leong, Y. C., Rosenberg, M. D. (2025). Ongoing thoughts at rest reflect functional brain organization and behavior. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.08.18.670664v1)
+Chen, R., **Song, H.**, Ching, S., Braver, T. S. Task-induced topological and geometrical changes in whole-brain dynamics predict cognitive individual differences. *bioRxiv*. [[link[[(https://www.biorxiv.org/content/10.64898/2026.04.19.719533v1)
+
+Ke, J., Chamberlain, T. A., **Song, H.**, Corriveau, A., Zhang, Z., Martinez, T., Sams, L., Chun, M. M., Leong, Y. C., Rosenberg, M. D. Ongoing thoughts at rest reflect functional brain organization and behavior. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.08.18.670664v1)
 
 
 ## Peer-reviewed publications
