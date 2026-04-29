@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /files/CV_HayoungSong.pdf
 
+  - title: "Resume"
+    url: /files/Resume_HayoungSong.pdf
+
   - title: "Publications"
     url: /publications/    
 
