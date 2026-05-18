@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
+Ke, J., Madhogarhia, R., Chun, M. M., Rosenberg, M. D., Leong, Y. C., **Song, H.**. Neural dynamics of updating social impressions during movie watching. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.64898/2026.05.13.724907v1) [[data]](https://openneuro.org/datasets/ds005658/versions/1.0.0) [[code]](https://github.com/jinke828/socialaha)
+
 **Song, H.**, Lu, Q., Nguyen, T. T., Chen, J., Leong, Y. C., Rosenberg, M. D., Ching, S., Zacks, J. M. A neural network with episodic memory learns causal relationships between narrative events. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.09.01.673596v1) [[code]](https://github.com/hyssong/memorymodel)
 
 **Song, H.**, Ke, J., Madhogarhia, R., Leong, Y. C., Rosenberg, M. D. Cortical reinstatement of causally related events sparks narrative insights by updating neural representation patterns. *bioRxiv*. [[link]](https://www.biorxiv.org/content/10.1101/2025.03.12.642853v1) [[data]](https://openneuro.org/datasets/ds005658/versions/1.0.0) [[code]](https://github.com/hyssong/memoryaha)
